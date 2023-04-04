@@ -1,0 +1,2 @@
+# NextVite
+Nextjs, Vite, Javascripts
